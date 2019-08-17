@@ -3,7 +3,7 @@
 The data is available [here](https://drive.google.com/file/d/1ZcKZ1is0VEkY9kNfPxIG19qEIqHE5LIO/view?usp=sharing). 
 
 ## License
-This dataset was constructed using [Wikias](https://community.fandom.com/wiki/Hub:Big_wikis) from [FANDOM](fandom.com) and is licensed under the Creative Commons Attribution-Share Alike License (CC-BY-SA).
+This dataset was constructed using [Wikias](https://community.fandom.com/wiki/Hub:Big_wikis) from [FANDOM](https://www.fandom.com) and is licensed under the Creative Commons Attribution-Share Alike License (CC-BY-SA).
 
 ## Data 
 
@@ -37,6 +37,7 @@ Description of fields:
 
 # Reference
 If you use our dataset in your work, please cite us.
+
 *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin and Honglak Lee. 2019. [Zero-Shot Entity Linking by Reading Entity Descriptions](https://www.aclweb.org/anthology/P19-1335). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.*
 ```
 @inproceedings{logeswaran-etal-2019-zero,
