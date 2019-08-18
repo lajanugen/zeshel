@@ -35,7 +35,9 @@ Description of fields:
 * `category`: Type of mention 
 * `corpus`: Source world of the mention
 
-# Reference
+## Code: Coming soon..
+
+## Reference
 If you use our dataset in your work, please cite us.
 
 *Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin and Honglak Lee. 2019. [Zero-Shot Entity Linking by Reading Entity Descriptions](https://www.aclweb.org/anthology/P19-1335). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.*
