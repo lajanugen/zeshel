@@ -29,7 +29,7 @@ The mentions are organized into the following files: `{train,heldout_train_seen,
 Description of fields:
 * `mention_id`: Unique mention identifier
 * `context_document_id`: Identifier of mention's source document
-* `start_index, end_index`: Location of mention text in the source document, assuming white-space tokenization
+* `start_index, end_index`: Location of mention text in the source document, assuming white-space tokenization (0-based indexing, start and end positions inclusive)
 * `text`: Mention phrase
 * `label_document_id`: Document id of entity represented by the mention
 * `category`: Type of mention 
